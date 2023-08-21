@@ -91,7 +91,7 @@ O Projeto será composto pelas seguintes Classes e Interfaces:
 
 Certifique-se de que você tenha o seguinte instalado em seu sistema:
 
-       [SpringToolSuite4]
+       [Spring Tool Suite 4]
 ***
 ## Passo 1: Clonar o Repositório
 
@@ -100,7 +100,7 @@ Navegue até o diretório onde você deseja clonar o repositório. <br/>
 Execute o seguinte comando para clonar o repositório:
 
 ```
-git clone https://github.com/RitaAlmeidah/Projeto_Blog.git
+git clone https://github.com/RitaAlmeidah/ContaBancaria.git
 ```
 
 Aguarde até que o processo de clonagem seja concluído.
