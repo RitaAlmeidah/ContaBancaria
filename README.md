@@ -2,7 +2,7 @@
 
 <h2>1. O Projeto Conta Bancária</h2>
 
-O Projeto Conta Bancária será o nosso Projeto Guia no aprendizado dos Conceitos e aplicação da Orientação a Objetos. Todo o código que implementarmos no projeto Conta Bancária servirá de base para a construção do Projeto Java, que marca o final do Bloco 01. O Projeto Conta Bancária receberá novas funcionalidades a cada nova Sessão e depois que você adquirir e praticar os novos conhecimentos, você poderá aplicar no Projeto Java. Veja o Diagrama de Classes do Projeto Conta Bancária completo na figura abaixo:
+Diagrama de Classes do Projeto Conta Bancária completo na figura abaixo:
 
 ```mermaid
 classDiagram
