@@ -116,7 +116,9 @@ Após a conclusão da clonagem, abra o arquivo no Spring Tool Suite 4.
 Para executarmos o Projeto, clique no botão <img src="https://i.imgur.com/t28CIT4.png" title="source: imgur.com" width="4%"/>**Run**, na **Barra de Ferramentas**
 
 ***
+## Autora:
 
+- Rita Almeida(https://github.com/RitaAlmeidah))
 
 
 
